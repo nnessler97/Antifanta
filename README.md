@@ -1,3 +1,58 @@
+Hier ist ein normaler Text für deine GitHub-README.md, der dein Projekt beschreibt:
+
+---
+
+# OpenBrand – Öffentliche Marken-Webseite
+
+Willkommen bei **OpenBrand**, einer innovativen Marke, die auf der Grundlage von **Fairness** und **Offenheit** funktioniert. OpenBrand ermöglicht es dir, die Marke kostenlos zu nutzen, aber mit einer fairen **1%-Lizenzregelung**.
+
+Dieses Projekt nutzt **Next.js** und **Supabase**, um eine moderne Webanwendung zu erstellen, die es Nutzern ermöglicht, sich für Updates und Infos zur Marke anzumelden.
+
+## 🌟 Features
+- **Supabase-Integration** für die Speicherung von E-Mail-Adressen
+- Einfaches **Anmeldeformular**, um Updates zu erhalten
+- **Responsive Design**, das auf allen Geräten gut aussieht
+- **E-Mail-Validierung** durch Eingabefeld
+
+## 🔧 Installation & Setup
+
+Falls du das Projekt lokal starten möchtest, folge diesen Schritten:
+
+1. **Repository klonen**  
+```bash
+git clone https://github.com/dein-github-username/dein-repository.git
+cd dein-repository
+```
+
+2. **Abhängigkeiten installieren**  
+```bash
+npm install
+```
+
+3. **Supabase-Keys in `.env.local` hinzufügen**  
+Erstelle eine Datei `.env.local` und füge folgendes ein:  
+```ini
+NEXT_PUBLIC_SUPABASE_URL=deine-supabase-url
+NEXT_PUBLIC_SUPABASE_ANON_KEY=dein-supabase-anon-key
+```
+
+4. **Entwicklung starten**  
+```bash
+npm run dev
+```
+Dann kannst du die Webseite unter `http://localhost:3000` aufrufen.
+
+## 🚀 Deployment
+
+Das Projekt kann über **Vercel** oder einen anderen Hosting-Dienst deiner Wahl gehostet werden. Stelle sicher, dass du die Umgebungsvariablen korrekt konfigurierst.
+
+## 💻 Code-Details
+
+In diesem Projekt haben wir ein **Anmeldeformular** entwickelt, das eine **E-Mail-Adresse** von den Nutzern entgegennimmt und in einer Supabase-Datenbank speichert. Bei erfolgreicher Anmeldung wird eine Bestätigungsnachricht angezeigt.
+
+### Beispiel-Code:
+
+```javascript
 import { useState } from "react";
 import { Card, CardContent } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
@@ -44,3 +99,17 @@ export default function PublicBrandWebsite() {
     </div>
   );
 }
+```
+
+## 🤝 Mitwirken
+
+Falls du Ideen hast oder mithelfen möchtest, erstelle gerne ein **Issue** oder sende einen **Pull Request**.
+
+---
+
+📌 **Live-Demo**: [Hier klicken](https://deinprojekt.vercel.app)  
+📌 **Ersteller**: [Dein Name](https://github.com/dein-github-username)
+
+---
+
+Das war's! Dein GitHub-Repository ist jetzt professionell dokumentiert. Wenn du Änderungen oder Ergänzungen benötigst, lass es mich wissen! 😊
