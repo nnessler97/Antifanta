@@ -1,7 +1,3 @@
-Hier ist ein normaler Text für deine GitHub-README.md, der dein Projekt beschreibt:
-
----
-
 # OpenBrand – Öffentliche Marken-Webseite
 
 Willkommen bei **OpenBrand**, einer innovativen Marke, die auf der Grundlage von **Fairness** und **Offenheit** funktioniert. OpenBrand ermöglicht es dir, die Marke kostenlos zu nutzen, aber mit einer fairen **1%-Lizenzregelung**.
@@ -109,7 +105,3 @@ Falls du Ideen hast oder mithelfen möchtest, erstelle gerne ein **Issue** oder 
 
 📌 **Live-Demo**: [Hier klicken](https://deinprojekt.vercel.app)  
 📌 **Ersteller**: [Dein Name](https://github.com/dein-github-username)
-
----
-
-Das war's! Dein GitHub-Repository ist jetzt professionell dokumentiert. Wenn du Änderungen oder Ergänzungen benötigst, lass es mich wissen! 😊
