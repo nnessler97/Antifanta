@@ -1,4 +1,4 @@
-OpenBrand – Öffentliche Marken-Webseite
+Antifanta – Öffentliche Marken-Webseite
 
 Willkommen bei OpenBrand, einer innovativen Marke, die auf der Grundlage von Fairness und Offenheit funktioniert. OpenBrand ermöglicht es dir, die Marke kostenlos zu nutzen, aber mit einer fairen 1%-Lizenzregelung.
 
