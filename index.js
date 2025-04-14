@@ -83,9 +83,19 @@ export default function PublicBrandWebsite() {
     </div>
   );
 }
-🤝 Mitwirken
+## 🤝 Mitwirken
 
 Falls du Ideen hast oder mithelfen möchtest, erstelle gerne ein Issue oder sende einen Pull Request.
 
 📌 Live-Demo: Hier klicken
 📌 Ersteller: Dein Name
+
+## 📢 Unterstütze uns!
+
+Folge uns auf Social Media und teile das Projekt:
+
+🌍 Website: [Link zur Website]
+📸 Instagram: [@deineLimo]
+🐦 Twitter: [@deineLimo]
+
+## ✊ Kein Fußbreit dem Faschismus!
