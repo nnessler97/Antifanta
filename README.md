@@ -105,3 +105,13 @@ Falls du Ideen hast oder mithelfen möchtest, erstelle gerne ein **Issue** oder 
 
 📌 **Live-Demo**: [Hier klicken](https://deinprojekt.vercel.app)  
 📌 **Ersteller**: [Dein Name](https://github.com/dein-github-username)
+
+## 📢 Unterstütze uns!
+
+Folge uns auf Social Media und teile das Projekt:
+
+🌍 Website: [Link zur Website]
+📸 Instagram: [@deineLimo]
+🐦 Twitter: [@deineLimo]
+
+## ✊ Kein Fußbreit dem Faschismus!
