@@ -1,6 +1,6 @@
 Antifanta – Öffentliche Marken-Webseite
 
-Willkommen bei OpenBrand, einer innovativen Marke, die auf der Grundlage von Fairness und Offenheit funktioniert. OpenBrand ermöglicht es dir, die Marke kostenlos zu nutzen, aber mit einer fairen 1%-Lizenzregelung.
+Willkommen bei Antifanta, einer innovativen Marke, die auf der Grundlage von Fairness und Offenheit funktioniert. Antifanta ermöglicht es dir, die Marke kostenlos zu nutzen, aber mit einer fairen 1%-Lizenzregelung.
 
 Dieses Projekt nutzt Next.js und Supabase, um eine moderne Webanwendung zu erstellen, die es Nutzern ermöglicht, sich für Updates und Infos zur Marke anzumelden.
 
