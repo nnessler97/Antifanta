@@ -1,54 +1,54 @@
-# OpenBrand – Öffentliche Marken-Webseite
+Antifanta – Öffentliche Marken-Webseite
+  
+<h2 align="center">🍋 Die Limo, die antifaschistische Projekte finanziert ✊</h2>
 
-Willkommen bei **OpenBrand**, einer innovativen Marke, die auf der Grundlage von **Fairness** und **Offenheit** funktioniert. OpenBrand ermöglicht es dir, die Marke kostenlos zu nutzen, aber mit einer fairen **1%-Lizenzregelung**.
+Willkommen bei Antifanta, einer innovativen Marke, die auf der Grundlage von Fairness und Offenheit funktioniert. Antifanta ermöglicht es dir, die Marke kostenlos zu nutzen, aber mit einer fairen 1%-Lizenzregelung.
 
-Dieses Projekt nutzt **Next.js** und **Supabase**, um eine moderne Webanwendung zu erstellen, die es Nutzern ermöglicht, sich für Updates und Infos zur Marke anzumelden.
+Dieses Projekt nutzt Next.js und Supabase, um eine moderne Webanwendung zu erstellen, die es Nutzern ermöglicht, sich für Updates und Infos zur Marke anzumelden.
 
-## 🌟 Features
-- **Supabase-Integration** für die Speicherung von E-Mail-Adressen
-- Einfaches **Anmeldeformular**, um Updates zu erhalten
-- **Responsive Design**, das auf allen Geräten gut aussieht
-- **E-Mail-Validierung** durch Eingabefeld
+  <p align="center">• • •</p>
 
-## 🔧 Installation & Setup
+  <p align="center">
+  <img src="https://img.shields.io/badge/Open%20Source-Yes-brightgreen">
+  <img src="https://img.shields.io/badge/Lizenz-PublicBrand-blue">
+  <img src="https://img.shields.io/badge/Unterstützt-Antifaschismus-red">
+</p>
+  
+<p align="center">• • •</p>
+
+🌟 Features
+
+Supabase-Integration für die Speicherung von E-Mail-Adressen
+Einfaches Anmeldeformular, um Updates zu erhalten
+Responsive Design, das auf allen Geräten gut aussieht
+E-Mail-Validierung durch Eingabefeld
+🔧 Installation & Setup
 
 Falls du das Projekt lokal starten möchtest, folge diesen Schritten:
 
-1. **Repository klonen**  
-```bash
+Repository klonen
 git clone https://github.com/dein-github-username/dein-repository.git
 cd dein-repository
-```
-
-2. **Abhängigkeiten installieren**  
-```bash
+Abhängigkeiten installieren
 npm install
-```
-
-3. **Supabase-Keys in `.env.local` hinzufügen**  
-Erstelle eine Datei `.env.local` und füge folgendes ein:  
-```ini
+Supabase-Keys in .env.local hinzufügen
+Erstelle eine Datei .env.local und füge folgendes ein:
 NEXT_PUBLIC_SUPABASE_URL=deine-supabase-url
 NEXT_PUBLIC_SUPABASE_ANON_KEY=dein-supabase-anon-key
-```
-
-4. **Entwicklung starten**  
-```bash
+Entwicklung starten
 npm run dev
-```
-Dann kannst du die Webseite unter `http://localhost:3000` aufrufen.
+Dann kannst du die Webseite unter http://localhost:3000 aufrufen.
 
-## 🚀 Deployment
+🚀 Deployment
 
-Das Projekt kann über **Vercel** oder einen anderen Hosting-Dienst deiner Wahl gehostet werden. Stelle sicher, dass du die Umgebungsvariablen korrekt konfigurierst.
+Das Projekt kann über Vercel oder einen anderen Hosting-Dienst deiner Wahl gehostet werden. Stelle sicher, dass du die Umgebungsvariablen korrekt konfigurierst.
 
-## 💻 Code-Details
+💻 Code-Details
 
-In diesem Projekt haben wir ein **Anmeldeformular** entwickelt, das eine **E-Mail-Adresse** von den Nutzern entgegennimmt und in einer Supabase-Datenbank speichert. Bei erfolgreicher Anmeldung wird eine Bestätigungsnachricht angezeigt.
+In diesem Projekt haben wir ein Anmeldeformular entwickelt, das eine E-Mail-Adresse von den Nutzern entgegennimmt und in einer Supabase-Datenbank speichert. Bei erfolgreicher Anmeldung wird eine Bestätigungsnachricht angezeigt.
 
-### Beispiel-Code:
+Beispiel-Code:
 
-```javascript
 import { useState } from "react";
 import { Card, CardContent } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
@@ -95,16 +95,12 @@ export default function PublicBrandWebsite() {
     </div>
   );
 }
-```
-
 ## 🤝 Mitwirken
 
-Falls du Ideen hast oder mithelfen möchtest, erstelle gerne ein **Issue** oder sende einen **Pull Request**.
+Falls du Ideen hast oder mithelfen möchtest, erstelle gerne ein Issue oder sende einen Pull Request.
 
----
-
-📌 **Live-Demo**: [Hier klicken](https://deinprojekt.vercel.app)  
-📌 **Ersteller**: [Dein Name](https://github.com/dein-github-username)
+📌 Live-Demo: Hier klicken
+📌 Ersteller: Dein Name
 
 ## 📢 Unterstütze uns!
 
