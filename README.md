@@ -8,7 +8,7 @@ Willkommen bei Antifanta, einer innovativen Marke, die auf der Grundlage von Fai
   <img src="https://deinbannerlink/banner.png" width="100%" />
 </p>
 
-<h1 align="center">✊🍋 ANTIFA-LIMO – Limo mit Haltung</h1>
+<h1 align="center">✊🍋 ANTIFANTA – Limo mit Haltung</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Open%20Source-Yes-brightgreen">
