@@ -16,6 +16,12 @@ Dieses Projekt nutzt Next.js und Supabase, um eine moderne Webanwendung zu erste
   
 <p align="center">• • •</p>
 
+| Bereich | Beschreibung |
+|--------|--------------|
+| 🍋 Produkt | Antifaschistische Limonade |
+| ❤️ Unterstützung | 1% geht an antifaschistische Projekte |
+| 🌍 Ziel | Community-basierte Open-Brand |
+
 🌟 Features
 
 Supabase-Integration für die Speicherung von E-Mail-Adressen
