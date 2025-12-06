@@ -4,6 +4,33 @@ Antifanta – Öffentliche Marken-Webseite
 
 Willkommen bei Antifanta, einer innovativen Marke, die auf der Grundlage von Fairness und Offenheit funktioniert. Antifanta ermöglicht es dir, die Marke kostenlos zu nutzen, aber mit einer fairen 1%-Lizenzregelung.
 
+<p align="center">
+  <img src="https://deinbannerlink/banner.png" width="100%" />
+</p>
+
+<h1 align="center">✊🍋 ANTIFA-LIMO – Limo mit Haltung</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20Source-Yes-brightgreen">
+  <img src="https://img.shields.io/badge/Unterstützt-Antifaschismus-red">
+  <img src="https://img.shields.io/badge/Lizenz-PublicBrand-blue">
+</p>
+
+---
+
+<h2 align="center">🍋 Die erste Open-Brand-Limo, die antifaschistische Projekte finanziert</h2>
+
+---
+
+## 🚀 Vision
+Mit jedem Schluck wird antifaschistische Arbeit unterstützt.  
+Die Marke ist offen – jeder darf sie nutzen, verändern und weiterentwickeln.  
+
+---
+
+## 📦 Projektstruktur
+
+
 Dieses Projekt nutzt Next.js und Supabase, um eine moderne Webanwendung zu erstellen, die es Nutzern ermöglicht, sich für Updates und Infos zur Marke anzumelden.
 
   <p align="center">• • •</p>
